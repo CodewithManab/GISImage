@@ -1,1 +1,1 @@
-# GISwithImage
+# GISImage
